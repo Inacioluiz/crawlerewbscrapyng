@@ -1,0 +1,2 @@
+5) Você diria que bots ou crawlers são programas facilmente paralelizáveis? Se sim, explique como isso seria implementado dando um exemplo.
+Todas as funções de leitura são paralelizadas, de modo que o tempo de leitura dependerá da configuração de sua máquina.

@@ -1,0 +1,3 @@
+conda install-c conda-forge scrapy
+cd C:\Users\InacioLuiz\Documents\inacio-exercicio
+C:\Users\InacioLuiz\Documents\inacio-exercicio>scrapy runspider questao2.py
